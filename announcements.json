@@ -1,1 +1,6 @@
-
+{
+"announcements": {
+"title" : "hello world",
+"body" : "welcome to the 4th floor"
+}
+}
