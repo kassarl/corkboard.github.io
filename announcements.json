@@ -1,15 +1,14 @@
-{
-"announcements": 
 [
-  
-{"title" : "hello world",
-"body" : "welcome to the 4th floor"},
-{"title" : "goodbye world", 
-"body" :"goodbye cruel world"}
-
-
+   {
+      "announcement":{
+         "title" : "hello world",
+"body" : "here i am"
+      }
+   },
+   {
+      "announcement":{
+         "title": "hello cruel world",
+"body" :"here i am again"
+      }
+   }
 ]
-
-
-
-}
