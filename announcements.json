@@ -1,14 +1,10 @@
 [
    {
-      "announcement":{
-         "title" : "hello world",
-"body" : "here i am"
-      }
+      "title":"titlehere",
+      "body":"bodyhere"
    },
    {
-      "announcement":{
-         "title": "hello cruel world",
-"body" :"here i am again"
-      }
+      "title":"titlehere2",
+      "body":"bodthere2"
    }
 ]
